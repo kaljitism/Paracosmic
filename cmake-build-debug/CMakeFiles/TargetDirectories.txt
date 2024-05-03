@@ -1,0 +1,3 @@
+N:/Paracosmic/cmake-build-debug/CMakeFiles/Paracosmic.dir
+N:/Paracosmic/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/Paracosmic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
